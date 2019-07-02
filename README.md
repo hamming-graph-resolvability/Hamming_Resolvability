@@ -6,8 +6,11 @@ The Matlab ILP directory holds all of the Matlab scripts used for the integer li
 
 The Runtime scripts directory holds all of the Python and Matlab scripts used to perform and time resolvability checks with all three methods. There are test sets and results included so the scripts can be run through command line without any pre-processing.
 
-## Version Information:
+## Version Information
 Python 3.7
+
 Matlab 2018b
+
 CVX 2.1
+
 Gurobi 7.5.2
